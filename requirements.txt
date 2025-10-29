@@ -1,1 +1,15 @@
+annotated-types==0.7.0
+boto3==1.40.61
+botocore==1.40.61
+jmespath==1.0.1
+localstack-sdk-generated==4.9.2
+localstack-sdk-python==4.9.2
+pydantic==2.12.3
+pydantic_core==2.41.4
+python-dateutil==2.9.0.post0
 python-dotenv==1.2.1
+s3transfer==0.14.0
+six==1.17.0
+typing-inspection==0.4.2
+typing_extensions==4.15.0
+urllib3==2.5.0
